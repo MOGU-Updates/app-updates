@@ -1,8 +1,8 @@
 {
-    "versionCode": 5,
+    "versionCode": 6,
     "versionName": "1.1.8",
-    "downloadUrl": "https://github.com/MOGU-Updates/app-updates/releases/download/v1.1.8/Updatev1_1_8.apk",
-    "releaseNotes": "Build 4 OG ***",
+    "downloadUrl": "https://github.com/MOGU-Updates/app-updates/releases/download/v1.1.8_1/MOGU_1_1_8.apk",
+    "releaseNotes": "Build 6 OG",
     "mandatory": false,
     "minVersionCode": 1
 }
