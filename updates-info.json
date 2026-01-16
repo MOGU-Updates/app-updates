@@ -1,8 +1,8 @@
 {
-    "versionCode": 6,
-    "versionName": "1.1.8",
-    "downloadUrl": "https://github.com/MOGU-Updates/app-updates/releases/download/v1.1.8_1/MOGU_1_1_8.apk",
-    "releaseNotes": "Build 6 OG",
+    "versionCode": 2,
+    "versionName": "1.1.8.1",
+    "downloadUrl": "https://github.com/MOGU-Updates/app-updates/releases/download/v1.1.8_1/School_Bus_Monitoring_App_1_1_8_1.apk",
+    "releaseNotes": "Build 1.1.8_1 For Testing Updates",
     "mandatory": false,
     "minVersionCode": 1
 }
